@@ -8,8 +8,8 @@
 ### About Me
 - I'm from **Bangladesh**  
 - Passionate about **building responsive and user-friendly web apps**  
-- Currently learning **React.js**  
-- Completed **HTML**, **CSS**,**REACT** and **JavaScript**  
+- Currently learning **MongoDB**  
+- Completed **HTML**, **CSS**, **REACT** and **JavaScript**  
 - My Goal: Become a **Full Stack Web Developer**  
 
 ---
