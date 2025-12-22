@@ -9,7 +9,7 @@
 - I'm from **Bangladesh**  
 - Passionate about **building responsive and user-friendly web apps**  
 - Currently learning **React.js**  
-- Completed **HTML**, **CSS**, and **JavaScript**  
+- Completed **HTML**, **CSS**,**REACT** and **JavaScript**  
 - My Goal: Become a **Full Stack Web Developer**  
 
 ---
