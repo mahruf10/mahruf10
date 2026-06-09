@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;Aspiring%20Software%20Engineer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=008000&vCenter=true&size=25" alt="Typing SVG">
 </p>
----
+
 ### About Me
 - I'm from **Bangladesh**  
 - Passionate about **building responsive and user-friendly web apps**  
